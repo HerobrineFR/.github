@@ -10,7 +10,7 @@ Notre volonté à long terme est de contribuer à l'effort de la communauté en 
 ## Où nous trouver ?
 Vous pouvez nous contacter :
 - Sur le site officiel de Herobrine.fr : https://www.herobrine.fr
-- Sur le discord officiel de Herobrine.fr : https://discordapp.com/invite/aJaS77r . N'hésitez pas à demander un membre de l'équipe technique (typiquement @yarkane ou @yazor ).
+- Sur le discord officiel de Herobrine.fr : https://discordapp.com/invite/aJaS77r . N'hésitez pas à demander un membre de l'équipe technique (typiquement @yarkane, @yazor ou @starfi1702 ).
 
 ## Bon jeu à vous !
 ![headerlogo](https://github.com/user-attachments/assets/1bb48558-c63e-4bf6-aa65-017ac6f03612)
